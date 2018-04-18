@@ -1,0 +1,11 @@
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/bin/Debug/netcoreapp2.0/firstapp.cs.deps.json
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/bin/Debug/netcoreapp2.0/firstapp.cs.runtimeconfig.json
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/bin/Debug/netcoreapp2.0/firstapp.cs.runtimeconfig.dev.json
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/bin/Debug/netcoreapp2.0/firstapp.cs.dll
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/bin/Debug/netcoreapp2.0/firstapp.cs.pdb
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/obj/Debug/netcoreapp2.0/firstapp.cs.csprojResolveAssemblyReference.cache
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/obj/Debug/netcoreapp2.0/firstapp.cs.csproj.CoreCompileInputs.cache
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/obj/Debug/netcoreapp2.0/firstapp.cs.AssemblyInfoInputs.cache
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/obj/Debug/netcoreapp2.0/firstapp.cs.AssemblyInfo.cs
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/obj/Debug/netcoreapp2.0/firstapp.cs.dll
+/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/obj/Debug/netcoreapp2.0/firstapp.cs.pdb
