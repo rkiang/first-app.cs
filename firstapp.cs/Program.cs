@@ -15,10 +15,12 @@ namespace firstapp.cs
         {
             static void Main(string[] args)
             {
-                for (; ; )
-                {
-                    Console.WriteLine("Hey! I am Trapped");
-                }
+                string yourName;
+                Console.WriteLine("What is your name?");
+
+                yourName = Console.ReadLine();
+
+                Console.WriteLine("Hello {0}", yourName);
             }
         }
     }
