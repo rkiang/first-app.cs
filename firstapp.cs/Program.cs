@@ -38,6 +38,12 @@ namespace firstapp.cs
                 {
                     Console.WriteLine("I'm probably at your level.");
                 }
+
+                int oneHundred = 0;
+                for (int i = 1; i <= 100; i++) {
+                    oneHundred += i;
+                }
+                Console.WriteLine("the sum of all whole numbers from 1-100 is {0}", oneHundred);
             }
         }
     }
