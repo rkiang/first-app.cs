@@ -1,14 +1,12 @@
 ﻿<Properties StartupConfiguration="{EB9FF63D-F131-4DA5-9EDE-2C0F07DFBA55}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="firstapp.cs/Program.cs">
     <Files>
-      <File FileName="firstapp.cs/Program.cs" Line="46" Column="95" />
+      <File FileName="firstapp.cs/Program.cs" Line="50" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ryankiang/Documents/projects/firstapp.cs/firstapp.cs/Program.cs" relfile="firstapp.cs/Program.cs" line="44" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.firstapp.cs PreferredExecutionTarget="MonoDevelop.Default" />

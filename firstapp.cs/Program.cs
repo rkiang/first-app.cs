@@ -22,6 +22,21 @@ namespace firstapp.cs
                 }
                 Console.WriteLine("the sum of all whole numbers from 1-100 is {0}", oneHundred);
             }
+            static void DrawPyramid(int n)
+            {
+                for (int i = 1; i <= n; i++)
+                {
+                    for (int j = i; j <= n; j++)
+                    {
+                        Console.Write("  ");
+                    }
+                    for (int k = 1; k <= 2 * i - 1; k++)
+                    {
+                        Console.Write("*" + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
             static void Main(string[] args)
             {
                 string yourName;
@@ -48,6 +63,7 @@ namespace firstapp.cs
                     Console.WriteLine("I'm probably at your level.");
                 }
                 sumOf100();
+                DrawPyramid(10);
             }
         }
     }
