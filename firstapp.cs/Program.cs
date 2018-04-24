@@ -37,6 +37,7 @@ namespace firstapp.cs
                     Console.WriteLine();
                 }
             }
+
             static void Main(string[] args)
             {
                 string yourName;
@@ -64,6 +65,13 @@ namespace firstapp.cs
                 }
                 sumOf100();
                 DrawPyramid(10);
+
+                int[] nums = { 5, 2, 3, 4, 7 };
+                foreach (var n in nums) /* foreach loop will pass array items if % 2 == 0 */
+                {
+                    if (n % 2 == 0)
+                        Console.WriteLine(n);
+                }
             }
         }
     }
